@@ -12,11 +12,14 @@ Databases: SQL, MySQL
 Anti-Hate Speech Chrome Extension | *React, JavaScript*
 - Developed a browser extension to detect and flag harmful language online, promoting inclusive digital communication.
 - Leveraged React and JavaScript in a civic-tech hackathon to address social issues through tech innovation.
+
 Spotify Sound Wave Visualizer | *Python, Flask, JavaScript, HTML*
 - Designed and programmed a sound-wave visualizer utilizing Spotify’s API and JavaScript libraries to animate listening patterns.
+
 Autonomous Hydroponic System for Nutrient Scheduling | *Java, C++*
 - Architected and assembled a device to automate nutrient cycles in hydroponic farming environments.
 - Integrated sensors, programmed microcontrollers (C++, Java), and soldered components to simulate sustainable agriculture systems.
+
 Local Global Warming Effect Indicator | *Python, Java, C++*
 - Engineered a Raspberry Pi system to track CO₂, VOCs, and temperature data to analyze microclimates.
 - Developed and deployed a custom data pipeline using Python, C++, and Java for real-time environmental monitoring.
