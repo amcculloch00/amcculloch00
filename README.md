@@ -39,3 +39,4 @@ HS President of Student Ambassadors (2021-2023)
 
 ## 📫 Reach me here:
 alexmcculloch00@gmail.com
+www.linkedin.com/in/alexmcculloch00
