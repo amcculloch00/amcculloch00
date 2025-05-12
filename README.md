@@ -3,10 +3,9 @@ I'm a sophomore at the University of Pittsburgh studying Computer Science and Co
 I am an aspiring software engineer interested in ML, computing systems, and sustainability innovation.
 
 ## 🛠 Tech Stack:
-Languages: Python (Pandas, NumPy), Java, C++ (especially microcontroller programming), Linux OS
-Web Dev: HTML, CSS, JavaScript (basic), Node.js
+Languages: Java, Python (Pandas, NumPy), C++ (especially microcontroller programming), Linux OS
+Web Dev: HTML, CSS, JavaScript (basic), Node.js (basic)
 Tools: Jupyter Notebooks, Git, GitHub, Teams
-Databases: SQL, MySQL
 
 ## 🔭 Projects:
 Anti-Hate Speech Chrome Extension | *React, JavaScript*
